@@ -1,13 +1,13 @@
-# Drivy Data Challenge
+# CliCliC Data Challenge
 
-Looking for a job? Check out our [open positions](https://en.drivy.com/jobs).
+Looking for a job? Check out our [open positions](https://en.cliclic.com/jobs).
 
 ## Guidelines
 
 - clone this repo (do **not** fork it)
 - solve the levels in ascending order
 - commit your code at the end of each level
-- once you are done, ping someone from Drivy (ideally via our jobs page)
+- once you are done, ping someone from CliCliC (ideally via our jobs page)
 
 Please do the **simplest thing** that could work for the level you're currently solving.
 
@@ -83,7 +83,7 @@ Cars have a `created_at` date: they do not exist on the website before this date
 
 **Example of calendar:**
 
-![Calendar](https://drivy-misc.s3.amazonaws.com/jobs/calendar.jpg "Calendar")
+![Calendar](https://cliclic-misc.s3.amazonaws.com/jobs/calendar.jpg "Calendar")
 
 ### Level 1
 Compute the state of each car for each half-day in 2015. A car state can be `available`, `rented` or `unavailable`.

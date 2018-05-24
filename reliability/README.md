@@ -1,11 +1,11 @@
-# Drivy Reliability Challenge
+# CliCliC Reliability Challenge
 
-Looking for a job? Check out our [https://en.drivy.com/jobs](https://en.drivy.com/jobs).
+Looking for a job? Check out our [https://en.cliclic.com/jobs](https://en.cliclic.com/jobs).
 
 ## Guidelines
 - Clone this repo (do not fork it)
 - Commit your code
-- Once you are done, ping someone from Drivy (ideally via our jobs page)
+- Once you are done, ping someone from CliCliC (ideally via our jobs page)
 
 Please do the simplest thing that could work for the level you're currently solving.
 
