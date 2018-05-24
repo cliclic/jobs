@@ -1,8 +1,5 @@
 # CliCliC Backend Challenge
 
-Looking for a job? Check out our [open positions](https://en.cliclic.com/jobs).
-You can also take a look at our [engineering blog](https://cliclic.engineering/) to learn more about the way we work.
-
 ## Guidelines
 
 **For each level, write code that generates a `data/output.json` file from `data/input.json`.
@@ -26,14 +23,12 @@ For higher levels we are interested in seeing code that is clean, extensible and
 Please also note that:
 
 - All prices are stored as integers (in cents)
-- Running `$ ruby main.rb` from the level folder should generate the desired output, but of course feel free to add more files if needed.
+- Running `$ node main.js` from the level folder should generate the desired output, but of course feel free to add more files if needed.
 
 ## Sending Your Results
 
 Once you are done, please send your results to someone from CliCliC.
-
 - If you are already in discussion with us, send it directly to the person you are talking to.
-- If not, use the application form [on every job listing](https://en.cliclic.com/jobs).
 
 You can send your Github project link or zip your directory and send it via email.
 If you do not use Github, don't forget to attach your `.git` folder.
