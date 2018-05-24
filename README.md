@@ -1,6 +1,6 @@
 # CliCliC Challenges
 
-**Thanks to Nicolas Mondollot, CTO at Drivy for thoses tests.**
+**Thanks to Nicolas Mondollot, CTO at Drivy for those tests.**
 
 If you want to join the engineering team, you will most likely
 have to complete one of our code challenges:
